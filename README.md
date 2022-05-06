@@ -11,10 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-HEllo world this is a documentation pages.
-Itworks fine ig
-## Header 2
-### Header 3
+Hello everyone! Welcome to Github pages!
+
+Using this you can pulish your documentation.
+You can also create a website for this document.
+
+You can also allow anyone to edit this documentation if you wish too!
+
+### TANK YOU
 
 - Bulleted
 - List
